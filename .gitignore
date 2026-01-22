@@ -36,3 +36,6 @@ coverage
 
 # Vite
 .vite
+
+*storybook.log
+storybook-static
