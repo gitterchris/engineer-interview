@@ -1,4 +1,4 @@
-import { ChallengeComponent } from "./ChallengeComponent";
+import { ChallengeComponent } from "./page/ChallengeComponent";
 
 function App() {
   return (
