@@ -14,7 +14,7 @@ const AddTaskField = () => {
       value={currentTask}
       onChange={handleTaskChange}
       placeholder="Add Task"
-      className="w-full p-4 text-lg border border-black focus:outline-none"
+      className="w-full h-14 px-4 text-lg border border-black focus:outline-none"
     />
   );
 }
